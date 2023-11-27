@@ -71,7 +71,7 @@ hr.line-2{background: #333;max-width: 40px;height: 4px;}
 /* ------------------------------------Html-Body------------------------------- */
 /* ---------------------------------------------------------------------------- */
 html, body {width:100%; padding:0; margin:0;}
-body {font: 14px/25px Arial, Helvetica, sans-serif;font-family: 'Open Sans', sans-serif;background: #F6F6F5 url("../images/bg.jpg") repeat 0 0;}
+body {font: 14px/25px Arial, Helvetica, sans-serif;font-family: 'Open Sans', sans-serif;background: #006000 repeat 0 0;}
 body .wrap-body{}
 
 /* ---------------------------------------------------------------------------- */
@@ -142,7 +142,7 @@ footer a{color:#666;}
 footer p{margin-top: 20px;}
 footer a:hover{text-decoration: underline;}
 footer ul li {display: inline-block;margin-right: 7px;}
-footer ul.social-buttons li a{padding: 10px 12px;display: block;width: 40px;height: 40px;border-radius: 50%;font-size: 20px;line-height: 40px;color: #ffffff;background-color: #DE5781;transition-duration: 0.3s;}
+footer ul.social-buttons li a{padding: 10px 12px;display: block;width: 40px;height: 40px;border-radius: 50%;font-size: 20px;line-height: 40px;color: #ffffff;background-color: #006000;transition-duration: 0.3s;}
 footer ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active{background-color: #333333;}
 footer ul.quick-link li{margin-top: 10px;}
 
